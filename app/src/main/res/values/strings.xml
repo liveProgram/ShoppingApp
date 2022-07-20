@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="register_as_a_new_user">Register as a new User</string>
+    <string name="login_as_an_existing_user">Login as an existing User</string>
+    <string name="proceed_to_sign_up">Proceed to Sign Up</string>
+    <string name="login">Login</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="title_activity_drawer_nav">DrawerNavActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="are_you_sure_to_exit">Are you sure to exit?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+</resources>
